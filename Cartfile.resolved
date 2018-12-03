@@ -1,0 +1,7 @@
+git "https://chromium.googlesource.com/webm/libwebp" "v0.6.0"
+github "CaptainTeemo/Texture" "73461681215cb4f0e241d124627d203a715fe424"
+github "ReactiveX/RxSwift" "4.4.0"
+github "RxSwiftCommunity/RxDataSources" "3.1.0"
+github "pinterest/PINCache" "3.0.1-beta.6"
+github "pinterest/PINOperation" "1.1.1"
+github "pinterest/PINRemoteImage" "3.0.0-beta.13"
