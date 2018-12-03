@@ -55,7 +55,6 @@
 		ACB28E0720052A2C0076CAC5 /* ASCollectionNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB28E0620052A2C0076CAC5 /* ASCollectionNode+Rx.swift */; };
 		ACB28E0820052B520076CAC5 /* ASCollectionNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB28E0620052A2C0076CAC5 /* ASCollectionNode+Rx.swift */; };
 		ACB28E0920052B570076CAC5 /* AnimationTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB28E03200524DB0076CAC5 /* AnimationTransition.swift */; };
-		CF67D2B621B50DF60056F7AD /* RxTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF67D2AB21B50DF50056F7AD /* RxTest.framework */; };
 		CF67D2B721B50DF60056F7AD /* Differentiator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF67D2AC21B50DF50056F7AD /* Differentiator.framework */; };
 		CF67D2B821B50DF60056F7AD /* RxDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF67D2AD21B50DF50056F7AD /* RxDataSources.framework */; };
 		CF67D2B921B50DF60056F7AD /* RxAtomic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF67D2AE21B50DF50056F7AD /* RxAtomic.framework */; };
@@ -104,7 +103,6 @@
 		57E5636B1F291ACC002E825B /* ASTableNode+SectionedViewType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ASTableNode+SectionedViewType.swift"; sourceTree = "<group>"; };
 		ACB28E03200524DB0076CAC5 /* AnimationTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTransition.swift; sourceTree = "<group>"; };
 		ACB28E0620052A2C0076CAC5 /* ASCollectionNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ASCollectionNode+Rx.swift"; sourceTree = "<group>"; };
-		CF67D2AB21B50DF50056F7AD /* RxTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxTest.framework; path = Carthage/Build/iOS/RxTest.framework; sourceTree = "<group>"; };
 		CF67D2AC21B50DF50056F7AD /* Differentiator.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Differentiator.framework; path = Carthage/Build/iOS/Differentiator.framework; sourceTree = "<group>"; };
 		CF67D2AD21B50DF50056F7AD /* RxDataSources.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxDataSources.framework; path = Carthage/Build/iOS/RxDataSources.framework; sourceTree = "<group>"; };
 		CF67D2AE21B50DF50056F7AD /* RxAtomic.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxAtomic.framework; path = Carthage/Build/iOS/RxAtomic.framework; sourceTree = "<group>"; };
@@ -127,7 +125,6 @@
 				CF67D2C021B50DF60056F7AD /* RxCocoa.framework in Frameworks */,
 				CF67D2B821B50DF60056F7AD /* RxDataSources.framework in Frameworks */,
 				CF67D2B921B50DF60056F7AD /* RxAtomic.framework in Frameworks */,
-				CF67D2B621B50DF60056F7AD /* RxTest.framework in Frameworks */,
 				CF67D2BC21B50DF60056F7AD /* PINRemoteImage.framework in Frameworks */,
 				CF67D2BE21B50DF60056F7AD /* RxBlocking.framework in Frameworks */,
 				CF67D2BD21B50DF60056F7AD /* PINOperation.framework in Frameworks */,
@@ -206,7 +203,6 @@
 				CF67D2AC21B50DF50056F7AD /* Differentiator.framework */,
 				CF67D2AD21B50DF50056F7AD /* RxDataSources.framework */,
 				CF67D2B021B50DF50056F7AD /* RxSwift.framework */,
-				CF67D2AB21B50DF50056F7AD /* RxTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
